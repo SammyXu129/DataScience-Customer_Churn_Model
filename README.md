@@ -52,9 +52,9 @@ In this project, I choose Classification model as in the real business context, 
 * Normalize or standardize numerical features
   
 2. Feature engineering:
-*Remove unnecessary and highly-correlated columns
-*Create new features that might be predictive of churn
-*Select the most relevant features
+* Remove unnecessary and highly-correlated columns
+* Create new features that might be predictive of churn
+* Select the most relevant features
 
 **CONSTRCT**
 1. Model selection:
