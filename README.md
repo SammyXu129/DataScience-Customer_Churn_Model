@@ -31,7 +31,6 @@ The 'Churn-Dataset' has 7043 rows and 23 columns.
 4. Average Monthly Revenue 
 5. Percentage of Customer Churn till Now
    
-**Summary of Insights**
 
 ## Classification Model
 
